@@ -1,0 +1,14 @@
+c:\users\greta\source\repos\MethodTemplatePattern\MethodTemplatePattern\bin\Debug\MethodTemplatePattern.exe.config
+c:\users\greta\source\repos\MethodTemplatePattern\MethodTemplatePattern\bin\Debug\MethodTemplatePattern.exe
+c:\users\greta\source\repos\MethodTemplatePattern\MethodTemplatePattern\bin\Debug\MethodTemplatePattern.pdb
+c:\users\greta\source\repos\MethodTemplatePattern\MethodTemplatePattern\obj\Debug\MethodTemplatePattern.csprojResolveAssemblyReference.cache
+c:\users\greta\source\repos\MethodTemplatePattern\MethodTemplatePattern\obj\Debug\MethodTemplatePattern.csproj.CoreCompileInputs.cache
+c:\users\greta\source\repos\MethodTemplatePattern\MethodTemplatePattern\obj\Debug\MethodTemplatePattern.exe
+c:\users\greta\source\repos\MethodTemplatePattern\MethodTemplatePattern\obj\Debug\MethodTemplatePattern.pdb
+C:\Users\greta\MIF\PSP\1_uzduotis\MethodTemplatePattern\MethodTemplatePattern\obj\Debug\MethodTemplatePattern.csprojResolveAssemblyReference.cache
+C:\Users\greta\MIF\PSP\1_uzduotis\MethodTemplatePattern\MethodTemplatePattern\obj\Debug\MethodTemplatePattern.csproj.CoreCompileInputs.cache
+C:\Users\greta\MIF\PSP\1_uzduotis\MethodTemplatePattern\MethodTemplatePattern\obj\Debug\MethodTemplatePattern.exe
+C:\Users\greta\MIF\PSP\1_uzduotis\MethodTemplatePattern\MethodTemplatePattern\obj\Debug\MethodTemplatePattern.pdb
+C:\Users\greta\MIF\PSP\1_uzduotis\MethodTemplatePattern\MethodTemplatePattern\bin\Debug\MethodTemplatePattern.exe.config
+C:\Users\greta\MIF\PSP\1_uzduotis\MethodTemplatePattern\MethodTemplatePattern\bin\Debug\MethodTemplatePattern.exe
+C:\Users\greta\MIF\PSP\1_uzduotis\MethodTemplatePattern\MethodTemplatePattern\bin\Debug\MethodTemplatePattern.pdb

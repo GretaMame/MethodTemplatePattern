@@ -1,2 +1,2 @@
 # MethodTemplatePattern
-a very primitve implementation of the method template pattern
+A very primitve implementation of the method template pattern
